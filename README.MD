@@ -1,7 +1,7 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, im flundar 👋</h2>
 
 <p align="center">
-<h3>My Accounts</h3>
+<summary style="font-weight: bold; font-size: 18px">My Accounts:</summary>
 </p>
 <p align="center">
 <a href="https://discord.com/users/262264459030953985" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
