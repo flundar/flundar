@@ -10,7 +10,6 @@
 <p align="center">
 <a href="https://discord.com/users/262264459030953985" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://github.com/flundar" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.npmjs.com/~furtsy"><img src="https://img.shields.io/badge/Npm%20-191717.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a>
 <a href="https://steamcommunity.com/id/flundar/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://www.reddit.com/user/rootflundar" target"blank_"><img src="https://img.shields.io/badge/reddit%20-FF5700.svg?&style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href="https://open.spotify.com/user/216uhj5hxzvyxpbeioz6qxnca" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
