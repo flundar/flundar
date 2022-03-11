@@ -4,7 +4,7 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/262264459030953985)](https://discord.com/users/262264459030953985)  
 
-[[Spotify Listening][https://spotify-github-profile.vercel.app/api/view.svg?uid=216uhj5hxzvyxpbeioz6qxnca&cover_image=true&theme=default)]]
+[[Spotify Listening](https://spotify-github-profile.vercel.app/api/view.svg?uid=216uhj5hxzvyxpbeioz6qxnca&cover_image=true&theme=default)]]
 
 </div>
 
