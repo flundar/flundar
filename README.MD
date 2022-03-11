@@ -2,7 +2,8 @@
 
 <div align="center">
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=216uhj5hxzvyxpbeioz6qxnca&cover_image=true&theme=default)]]
+[![https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=216uhj5hxzvyxpbeioz6qxnca&cover_image=true&theme=default)]]
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/262264459030953985)](https://discord.com/users/262264459030953985)  
 
 </div>
