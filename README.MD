@@ -20,7 +20,7 @@
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
-  ![flundar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=flundar&theme=monokai&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flundar&theme=monokai&hide_border=true">
 </details>
 
 <details align="center">
