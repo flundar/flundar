@@ -6,7 +6,7 @@ Backend Developer
 
 * 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [My website](http://flundar.com)
-* ✉️  You can contact me at [mail@okaysahin.com](mailto:mail@okaysahin.com)
+* ✉️  You can contact me at [mail@okaysahin.com](mailto:mail@flundar.com)
 * 🤝  I'm open to collaborating on interesting projects and young groups
 
 ### Skills
